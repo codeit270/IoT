@@ -1,4 +1,4 @@
-# IoT
+
 Code for transmitter module:
 #include <nRF24L01.h>
 #include <printf.h>
